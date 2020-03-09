@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("InstagramLite.UserProfile.xaml", "UserProfile.xaml", typeof(global::InstagramLite.UserProfile))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("InstagramLite.userProfile.xaml", "userProfile.xaml", typeof(global::InstagramLite.UserProfile))]
 
 namespace InstagramLite {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("UserProfile.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("userProfile.xaml")]
     public partial class UserProfile : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

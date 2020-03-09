@@ -6,15 +6,13 @@ namespace InstagramLite
 {
     class User
     {
-        private int Id { get; }
-        private int Name { get; set; }
-        private string Description { get; set; }
-        private string ImageUrl { get; }
-
-        User(int id, string imageurl)
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string ImageUrl
         {
-            Id = id;
-            ImageUrl = imageurl;
+            get { return "https://loremflickr.com/320/240?random=" + Id; }
         }
+
     }
 }

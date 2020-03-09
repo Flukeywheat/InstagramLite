@@ -12,5 +12,5 @@ C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\
 C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.csprojAssemblyReference.cache
 C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\People.xaml.g.cs
 C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\PersonProfile.xaml.g.cs
-C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\UserProfile.xaml.g.cs
 C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\userProfile.xaml.g.cs

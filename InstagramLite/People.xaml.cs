@@ -34,7 +34,8 @@ namespace InstagramLite
         {
             if ( e.SelectedItem != null)
             {
-                await Navigation.PushAsync(new PersonProfile());
+                var activity = e.SelectedItem as Activity;               
+                await Navigation.PushAsync( new PersonProfile(activity.UserId));
                 PeopleList.SelectedItem = null;
             }
         }

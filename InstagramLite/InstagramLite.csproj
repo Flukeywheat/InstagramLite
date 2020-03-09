@@ -23,7 +23,7 @@
     <EmbeddedResource Update="PersonProfile.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="UserProfile.xaml">
+    <EmbeddedResource Update="userProfile.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

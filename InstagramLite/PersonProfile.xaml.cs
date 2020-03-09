@@ -12,9 +12,14 @@ namespace InstagramLite
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class PersonProfile : ContentPage
     {
-        public PersonProfile()
+
+        private HardCodedData users = new HardCodedData();
+
+        public PersonProfile(int userID)
         {
             InitializeComponent();
+
+            BindingContext = users.GetUser(userID);
         }
     }
 }

@@ -11,11 +11,14 @@ namespace InstagramLite
     [DesignTimeVisible(false)]
     public partial class MainPage : TabbedPage
     {
+        
+
         public MainPage()
         {
             InitializeComponent();
-            
-            
+           
         }
+
+        
     }
 }

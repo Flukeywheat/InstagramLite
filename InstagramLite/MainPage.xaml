@@ -9,5 +9,5 @@
              NavigationPage.HasNavigationBar="False"
             >
     <local:People Title="People" IconImageSource="user.png" />
-    <local:UserProfile Title="Profile" IconImageSource="user.png"/>
+    <local:UserProfile Title="My Profile" IconImageSource="user.png" />
 </TabbedPage>
