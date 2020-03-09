@@ -1,0 +1,13 @@
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\bin\Debug\netstandard2.0\InstagramLite.deps.json
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\bin\Debug\netstandard2.0\InstagramLite.dll
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\bin\Debug\netstandard2.0\ref\InstagramLite.dll
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\bin\Debug\netstandard2.0\InstagramLite.pdb
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.csprojAssemblyReference.cache
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.AssemblyInfoInputs.cache
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.AssemblyInfo.cs
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.dll
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\ref\InstagramLite.dll
+C:\Users\chapt\source\repos\InstagramLite\InstagramLite\InstagramLite\obj\Debug\netstandard2.0\InstagramLite.pdb
