@@ -4,13 +4,10 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="InstagramLite.MainPage">
-    <MasterDetailPage Title="Activities">
-        
-    </MasterDetailPage>
-    <ContentPage Title="Profile">
-        <Label Text="Name of User" />
-    </ContentPage>
-    
-
+             xmlns:local="clr-namespace:InstagramLite"
+             x:Class="InstagramLite.MainPage"
+             NavigationPage.HasNavigationBar="False"
+            >
+    <local:People Title="People" IconImageSource="user.png" />
+    <local:UserProfile Title="Profile" IconImageSource="user.png"/>
 </TabbedPage>

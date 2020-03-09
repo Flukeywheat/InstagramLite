@@ -14,6 +14,8 @@ namespace InstagramLite
         public MainPage()
         {
             InitializeComponent();
+            
+            
         }
     }
 }
